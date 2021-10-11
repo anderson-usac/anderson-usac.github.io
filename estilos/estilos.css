@@ -22,7 +22,7 @@ body{
     border: 1px solid slategray;
     background-color:#D2CFCF;
 }
-li{
+.datosp{
     font-family: fantasy;
     font-weight: 400;
     font-size: 30px;
